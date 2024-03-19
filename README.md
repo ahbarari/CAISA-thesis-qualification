@@ -1,2 +1,2 @@
-# CAISA-thesis-qualification
-CAISA thesis qualification task
+# CAISA Thesis Qualification
+Document Classification task with Logistic Regression and Multi-layer Perceptron.
